@@ -1,4 +1,4 @@
-import exp_config as cg
+import config.exp_config as cg
 
 exp = cg.exp
 # Boolean flag for Ethernet to IP

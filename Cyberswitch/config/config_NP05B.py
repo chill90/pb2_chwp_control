@@ -4,8 +4,8 @@ import os
 
 this_dir = os.path.dirname(__file__)
 sy.path.append(os.path.join(
-    this_dir, '..', '..', '..', 'config'))
-import exp_config as cg
+    this_dir, '..', '..', 'config'))
+import exp_config as cg  # noqa: E402
 
 exp = cg.exp
 # Boolean flag for Ethernet to IP

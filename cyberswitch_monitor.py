@@ -1,10 +1,17 @@
+import sys as sy
+import time as tm
 import os
-import sys
 this_dir = os.path.dirname(__file__)
-sys.path.append(os.path.join(this_dir, "config"))
-sys.path.append(os.path.join(this_dir, "Cyberswitch", "src"))
-import cyberswitch_config as cg  # noqa: E402
-import NP05B as n5  # noqa: E402
+sy.path.append(os.path.join(this_dir, "config"))
+import config.cyberswitch_config as cg  # noqa: E402
+sy.path.append(os.path.join(this_dir, "src"))
+import src.chwpMonitor as cm  # noqa: E402
+sy.path.append(os.path.join(this_dir, "Cyberswitch", "src"))
+import Cyberswitch.src.NP05B as n5  # noqa: E402
+
+
+# Establish socket connection to remote slowDAQ publisher
+monitor = cm.CHWPMonitor()
 
 # Connect to the driver board PMX power supplies
 if cg.use_tcp:
@@ -13,13 +20,21 @@ if cg.use_tcp:
 else:
     np05b_arr = [n5.NP05B(rtu_port=port) for port in cg.rtu_ports]
 
-# Monitor information
-# Power status
-outs = [np05b.check_output() for np05b in np05b_arr]
-out_str = ''
-for out in outs:
-    out_str += ' '.join(out)
 
-# Send this information to standard output
-wrstr = ("%s") % (out_str)
-sys.stdout(wrstr)
+# Query the gripper status periodically and
+# send the data over the socket connection
+send_sleep = 100  # sec
+try:
+    while True:
+        # Get power status
+        out_dict= {}
+        out_dict.update(
+            {"PWR%02d" % (i): ';'.join(np05b.STATUS())
+            for i, np05b in enumerate(np05b_arr)})
+        # Send the data
+        success = monitor.send_data(out_dict)
+        tm.sleep(send_sleep)
+except KeyboardInterrupt:
+    print("Keyboard Interrupt in 'cyberswitch_monitor.py'")
+finally:
+    del monitor

@@ -3,22 +3,20 @@ import time as tm
 import os
 this_dir = os.path.dirname(__file__)
 sy.path.append(os.path.join(this_dir, "config"))
-import config.driver_board_pmx_config as cg  # noqa: E402
+import config.motor_pmx_config as cg  # noqa: E402
 sy.path.append(os.path.join(this_dir, "src"))
 import src.chwpMonitor as cm  # noqa: E402
 sy.path.append(os.path.join(this_dir, "PMX", "src"))
 import PMX.src.pmx as px  # noqa: E402
 
-
 # Establish socket connection to remote slowDAQ publisher
 monitor = cm.CHWPMonitor()
 
-# Connect to the driver board PMX power supplies
+# Connect to the motor PMX power supply
 if cg.use_tcp:
-    pmx_arr = [px.PMX(tcp_ip=ip, tcp_port=port)
-               for ip, port in zip(cg.tcp_ips, cg.tcp_ports)]
+    pmx = px.PMX(tcp_ip=cg.tcp_ip, tcp_port=cg.tcp_port)
 else:
-    pmx_arr = [px.PMX(rtu_port=port) for port in cg.rtu_ports]
+    pmx = px.PMX(rtu_port=cg.rtu_port)
 
 # Query the gripper status periodically and
 # send the data over the socket connection
@@ -28,22 +26,15 @@ try:
         # Collect monitoring information
         out_dict = {}
         # Power status
-        out_dict.update(
-            {("PWR%02d" % (i)): ("%d" % (int(pmx.check_output())))
-             for i, pmx in enumerate(pmx_arr)})
+        out_dict.update({"PWR": ("%d" % (int(pmx.check_output())))})
         # Output voltage
-        out_dict.update(
-            {("VOL%02d" % (i)): ("%.05f" % (float(pmx.check_voltage())))
-             for i, pmx in enumerate(pmx_arr)})
+        out_dict.update({"VOL": ("%.05f" % (float(pmx.check_voltage())))})
         # Output current
-        out_dict.update(
-            {("CUR%02d" % (i)): ("%.05f" % (float(pmx.check_current())))
-             for i, pmx in enumerate(pmx_arr)})
-
+        out_dict.update({"CUR": ("%.05f" % (float(pmx.check_current())))})
         # Send the data
         success = monitor.send_data(out_dict)
         tm.sleep(send_sleep)
 except KeyboardInterrupt:
-    print("Keyboard Interrupt in 'driver_board_monitor.py'")
+    print("Keyboard Interrupt in 'motor_pmx_monitor.py'")
 finally:
     del monitor

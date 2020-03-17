@@ -1,0 +1,50 @@
+[2020-03-09 23:06:36] Logging to file './src/../LOG/log_2020_03_09.txt'
+[2020-03-09 23:06:36] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-09 23:06:40] 
+Port power status:
+[2020-03-09 23:06:40] Port 1 = True
+
+[2020-03-09 23:06:40] Port 2 = True
+
+[2020-03-09 23:06:40] Port 3 = True
+
+[2020-03-09 23:06:40] Port 4 = True
+
+[2020-03-09 23:06:40] Port 5 = True
+
+[2020-03-09 23:06:50] 
+Port power status:
+[2020-03-09 23:06:50] Extra bytes, try again
+[2020-03-09 23:06:59] 
+Port power status:
+[2020-03-09 23:06:59] Extra bytes, try again
+[2020-03-09 23:07:05] 
+Port power status:
+[2020-03-09 23:07:05] Port 1 = False
+
+[2020-03-09 23:07:05] Port 2 = False
+
+[2020-03-09 23:07:05] Port 3 = False
+
+[2020-03-09 23:07:05] Port 4 = False
+
+[2020-03-09 23:07:05] Port 5 = False
+
+[2020-03-09 23:26:29] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-09 23:43:41] Logging to file 'src/../LOG/log_2020_03_09.txt'
+[2020-03-09 23:43:41] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-09 23:46:10] Logging to file 'src/../LOG/log_2020_03_09.txt'
+[2020-03-09 23:46:10] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-09 23:46:29] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-09 23:54:21] Logging to file 'src/../LOG/log_2020_03_09.txt'
+[2020-03-09 23:54:21] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-09 23:54:23] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-09 23:54:28] Logging to file 'src/../LOG/log_2020_03_09.txt'
+[2020-03-09 23:54:28] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-09 23:54:30] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-09 23:54:35] Logging to file 'src/../LOG/log_2020_03_09.txt'
+[2020-03-09 23:54:35] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-09 23:54:37] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-09 23:54:42] Logging to file 'src/../LOG/log_2020_03_09.txt'
+[2020-03-09 23:54:42] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-09 23:54:43] Closing RTU serial connection at port /dev/ttyUSB0

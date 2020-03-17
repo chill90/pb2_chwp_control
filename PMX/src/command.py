@@ -2,7 +2,7 @@
 import sys as sy
 
 # CHWP Control modules
-import src.pmx as px
+import src.pmx as pmx
 
 
 class Command:
@@ -14,8 +14,8 @@ class Command:
     """
     def __init__(self, PMX):
         # PMX connection
-        if pmx is not None:
-            self._PMX = pmx
+        if PMX is not None:
+            self._PMX = PMX
         else:
             raise Exception(
                 "PMX object not passed to Command constructor\n")
@@ -41,7 +41,7 @@ class Command:
             "Check output voltage = '%s'\n"
             "Check output current = '%s'\n"
             "Check output voltage and current = '%s'\n"
-            "Check if output state = '%s'\n"
+            "Check output state = '%s'\n"
             "Set output voltage = '%s' [setting]\n"
             "Set output current = '%s' [setting]\n"
             "Turn output on = '%s'\n"
@@ -52,8 +52,8 @@ class Command:
                self._cmds["check_v"],
                self._cmds["check_c"],
                self._cmds["check_vc"],
-               self._cmds["set_v"],
                self._cmds["check_out"],
+               self._cmds["set_v"],
                self._cmds["set_c"],
                self._cmds["set_on"],
                self._cmds["set_off"],
@@ -64,40 +64,51 @@ class Command:
     def user_input(self, arg):
         """ Take user input and execute PMX command """
         argv = arg.split()
+        #if len(args) > 0:
+            #value = float(args[0])
+        
         while len(argv):
             cmd = str(argv.pop(0)).upper()
             # No command
-            if cmd is '':
+            if cmd == '':
                 return
             # Check voltage
-            elif cmd is self._cmds["check_v"]:
-                ret = self._PMX.check_voltage()
+            elif cmd == self._cmds["check_v"]:
+                return self._PMX.check_voltage()
             # Check current
-            elif cmd is self._cmds["check_c"]:
-                ret = self._PMX.check_current()
+            elif cmd == self._cmds["check_c"]:
+                return self._PMX.check_current()
             # Check voltage and current
-            elif cmd is self._cmds["check_vc"]:
-                ret = self._PMX.check_voltage_current()
+            elif cmd == self._cmds["check_vc"]:
+                return self._PMX.check_voltage_current()
             # Check output state
-            elif cmd is self._cmds["check_out"]:
-                ret = self._PMX.check_output()
+            elif cmd == self._cmds["check_out"]:
+                return self._PMX.check_output()
             # Turn output state ON
-            elif cmd is self._cmds["set_on"]:
-                ret = self._PMX.turn_on()
+            elif cmd == self._cmds["set_on"]:
+                return self._PMX.turn_on()
             # Turn output state OFF
-            elif cmd is self._cmds["set_off"]:
-                ret = self._PMX.turn_off()
+            elif cmd == self._cmds["set_off"]:
+                return self._PMX.turn_off()
             # Get HELP
-            elif cmd is self._cmds["get_help"]:
+
+            #elif cmd == self._cmds["set_v"]:
+                #print(value)
+                #ret = self._PMX.set_voltage(value)
+
+            #elif cmd == self._cmds["set_c"]:
+                #ret = self._PMX.set_current(value)
+
+            elif cmd == self._cmds["get_help"]:
                 ret = self.get_help()
+                print(ret)
             # Exit the program
-            elif cmd is self._cmds["stop"]:
+            elif cmd == self._cmds["stop"]:
                 sy.exit("\nExiting...")
             # Set the RTU port
-            elif cmd is self._cmds["set_port"]:
+            elif cmd == self._cmds["set_port"]:
                 if self._PMX.using_tcp:
-                    print("Connected via TCP rather than RTU. "
-                          "Cannot set RTU port")
+                    print("Connected via TCP rather than RTU. Cannot set RTU port")
                     return False
                 set_val = self._int(argv.pop(0))
                 if set_val is not None:
@@ -105,13 +116,13 @@ class Command:
                     self._PMX = px.PMX(set_val)
                 else:
                     return False
-            elif cmd is self._cmds["set_v"]:
+            elif cmd == self._cmds["set_v"]:
                 set_val = self._float(argv.pop(0))
                 if set_val is not None:
                     self._PMX.set_voltage(set_val)
                 else:
                     return False
-            elif cmd.lower() is self.setC.lower():
+            elif cmd.lower() == self._cmds["set_c"].lower():
                 set_val = self._float(argv.pop(0))
                 if set_val is not None:
                     self._PMX.set_current(set_val)

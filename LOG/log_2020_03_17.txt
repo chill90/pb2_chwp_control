@@ -1,0 +1,3 @@
+[2020-03-17 21:24:48] Logging to file 'src/../LOG/log_2020_03_17.txt'
+[2020-03-17 21:26:07] Logging to file 'src/../LOG/log_2020_03_17.txt'
+[2020-03-17 21:26:08] CHWP_Control.griper_home(): Gripper homed

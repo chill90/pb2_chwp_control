@@ -1,5 +1,8 @@
+import sys as sy
+import src.NP05B as NP05B
+
 class Command:
-    def __init__(selfm, NP05B):
+    def __init__(self, NP05B):
         if NP05B is None:
             raise Exception(
                 "Must provide NP05B object to Command_NP_05B() init function")
@@ -63,13 +66,19 @@ class Command:
         elif cmdarg == 'STATUS':
             outputs = self._NP05B.STATUS()
             self._log.out("\nPort power status:")
-            for i in range(len(outputs)):
-                self._log.out(
-                    "Port %d = %s\n"
-                    % (i + 1, bool(int(outputs[i]))))
+            if outputs == True:
+                self._log.out('Jumbled...try again')
+            elif len(outputs) == 5:
+                for i in range(len(outputs)):
+                    self._log.out(
+                        "Port %d = %s\n"
+                        % (i + 1, bool(int(outputs[i]))))
+                return outputs
+            else:
+                self._log.out('Extra bytes, try again')
         # Print help menu
         elif cmdarg == 'HELP':
-            HELP()
+            self.HELP()
         # Exit the program
         elif cmdarg == 'EXIT':
             self._log.out("Exiting...")

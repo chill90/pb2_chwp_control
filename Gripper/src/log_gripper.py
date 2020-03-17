@@ -12,6 +12,10 @@ class Logging:
         fname = "log_%s.txt" % (date)
         log_dir = os.path.join(os.path.dirname(__file__), "..", "LOG")
         f = os.path.join(log_dir, fname)
+
+        if not os.path.isdir(log_dir):
+            os.mkdir(log_dir)
+
         if os.path.exists(f):
             self._log_file = open(f, 'a')
         else:

@@ -1,0 +1,2 @@
+[2020-03-13 06:35:31] Logging to file '/home/polarbear/pb2_chwp_control/src/../Gripper/src/../LOG/log_2020_03_13.txt'
+[2020-03-13 06:36:15] Logging to file '/home/polarbear/pb2_chwp_control/src/../Gripper/src/../LOG/log_2020_03_13.txt'

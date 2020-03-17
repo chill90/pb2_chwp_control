@@ -42,17 +42,18 @@ class NP05B:
             self.__conn(rtu_port, tcp_ip, tcp_port)
 
         # Read parameters
-        self._num_tries = 10
+        self._num_tries = 1
         self._bytes_to_read = 20
         self._tstep = 0.2
 
     def __del__(self):
-        if not self.use_tcp:
+        if not cg.use_tcp:
             self.log.log(
                 "Closing RTU serial connection at port %s"
-                % (self._rtu_port))
+                % (cg.rtu_port))
             self._clean_serial()
             self._ser.close()
+            #print("Deconstructor called")
         else:
             self.log.log(
                 "Closing TCP connection at IP %s and port %s"
@@ -62,49 +63,50 @@ class NP05B:
 
     def ON(self, port):
         """ Power on a specific port """
-        cmd = '$A3 %d 1' % (port)
+        cmd = b'$A3 %d 1' % (port)
         self._command(cmd)
-        return self.check_output(cmd)
+        return True
 
     def OFF(self, port):
         """ Power off a specific port """
-        cmd = '$A3 %d 0' % (port)
+        cmd = b'$A3 %d 0' % (port)
         self._command(cmd)
-        return self._check_output(cmd)
+        return True
 
     def ALL_ON(self):
         """ Power on all ports """
-        cmd = '$A7 1'
+        cmd = b'$A7 1'
         self._command(cmd)
-        return self._check_output(cmd)
+        return True
 
     def ALL_OFF(self):
         """ Power off all ports """
-        cmd = '$A7 0'
+        cmd = b'$A7 0'
         self._command(cmd)
-        return self.check_output(cmd)
+        return True
 
     def REBOOT(self, port):
         """ Reboot a specific port """
-        cmd = '$A4 %d' % (port)
+        cmd = b'$A4 %d' % (port)
         self._command(cmd)
-        return self._check_output()
+        return True
 
     def STATUS(self):
         """ Print the power status for all ports """
-        cmd = '$A5'
+        cmd = b'$A5'
         for n in range(self._num_tries):
             self._write(cmd)
             out = self._read()
             if len(out) == 0:
                 continue
-            elif cmd in out:
-                return list(out.lstrip(cmd).strip())[::-1]
+            elif len(out) != 0:
+                stat = out[1].decode().replace("\x00", '').replace(",", '').replace("$A0", '').replace("\n", '').replace("\r", '').replace("$A5", '')
+                return list(stat)[::-1]
             else:
                 self.log.err(
                     "Did not understand NP_05B output %s" % (out))
                 continue
-        return False
+        return True
 
     # ***** Helper methods *****
     def __conn(self, rtu_port=None, tcp_ip=None, tcp_port=None):
@@ -122,25 +124,25 @@ class NP05B:
                 parity='N', stopbits=1, timeout=1)
             self.log.log(
                 "Connecting to RTU serial port %s" % (rtu_port))
-            self.use_tcp = False
-            self._rtu_port = rtu_port
+            cg.use_tcp = False
+            cg.rtu_port = rtu_port
         elif tcp_ip is not None and tcp_port is not None:
             self._ser = mx.Serial_TCPServer((tcp_ip, tcp_port))
             self.log.log(
                 "Connecting to TCP IP %s via port %d"
                 % (tcp_ip, int(tcp_port)))
-            self.use_tcp = True
+            cg.use_tcp = True
             self._tcp_ip = tcp_ip
             self._tcp_port = tcp_port
 
     def _wait(self):
         """ Wait a specific timestep """
-        time.sleep(self._tstep)
+        tm.sleep(self._tstep)
         return True
 
     def _clean_serial(self):
         """ Flush the serial buffer """
-        if not self.use_tcp:
+        if not cg.use_tcp:
             self._ser.reset_input_buffer()
             self._ser.reset_output_buffer()
             self._ser.flush()
@@ -151,26 +153,26 @@ class NP05B:
     def _write(self, cmd):
         """ Write to the serial port """
         self._clean_serial()
-        self._ser.write((cmd+'\r'))
+        self._ser.write((cmd+b'\r'))
         self._wait()
 
     def _read(self):
         """ Read from the serial port """
-        if not self._use_tcp:
+        if not cg.use_tcp:
             return self._ser.readlines()
         else:
-            raw_out = self._ser.read(self.bytes_to_read)
+            raw_out = self._ser.read(self._bytes_to_read)
             out = raw_out.replace('\r', ' ').replace('\x00', '')
             return out
 
-    def _check_output(self, cmd):
+    def check_output(self, cmd):
         """ Check the output """
         out = self._read()
         if len(out) == 0:
             return False
-        elif cmd.split()[0] in out.split()[0] and '$A0' in out:
+        elif cmd.decode() in out[0].decode() and '$A0' in out[1].decode():
             return True
-        elif not len([s for s in out if 'Telnet active.' in s]) == 0:
+        elif not len([s for s in out if b'Telnet active.' in s]) == 0:
             self.log.log('Telnet active. Resetting... try command again.')
             return self._deactivate_telnet()
         else:
@@ -182,12 +184,12 @@ class NP05B:
         """ Send a command to the device """
         for n in range(self._num_tries):
             self._write(cmd)
-            result = self.check_output(cmd)
-            if result:
-                return True
-            else:
-                continue
-        return False
+            #result = self.check_output(cmd)
+            #if result:
+                #return True
+            #else:
+                #continue
+        return True
 
     def _deactivate_telnet(self):
         """ Attempt to deactivate Telnet session to the device """

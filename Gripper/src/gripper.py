@@ -48,7 +48,14 @@ class Gripper:
             os.path.dirname(os.path.realpath(__file__)), "POS")
         self.pos_file = os.path.join(
             self.pos_dir, "chwpGripper_positionLog.txt")
-        self.posf = open(self.pos_file, 'a+')
+
+        if not os.path.isdir(self.pos_dir):
+            os.mkdir(self.pos_dir)
+        
+        if os.path.exists(self.pos_file):
+            self.posf = open(self.pos_file, 'a+')
+        else:
+            self.posf = open(self.pos_file, 'w+')
 
         # Read initial positions
         self._read_pos()

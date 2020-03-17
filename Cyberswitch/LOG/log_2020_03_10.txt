@@ -1,0 +1,3069 @@
+[2020-03-10 00:00:08] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 00:00:08] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 00:00:11] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 00:11:45] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 00:11:45] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 00:11:47] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 00:15:08] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 00:15:08] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 00:15:10] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 00:15:30] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 00:15:30] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 00:15:37] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 00:26:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 00:26:36] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 00:33:43] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 00:34:23] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 00:34:23] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 00:34:44] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 00:35:07] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 00:35:07] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 00:35:22] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 00:35:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 00:35:34] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 00:35:36] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 00:35:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 00:35:41] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 00:35:43] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 00:43:25] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 00:43:25] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 00:43:27] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 00:43:49] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 00:43:49] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 00:44:50] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 00:51:54] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 00:51:54] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 00:51:56] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 00:54:25] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 00:54:25] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 00:54:27] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 00:55:08] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 00:55:08] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 00:55:10] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 00:55:52] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 00:55:52] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 00:55:54] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 00:58:48] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 00:58:48] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 00:58:50] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:12:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:12:02] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:13:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:14:14] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:14:14] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:14:16] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:14:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:14:34] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:14:36] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:15:28] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:15:28] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:16:03] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:18:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:18:34] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:18:36] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:18:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:18:41] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:18:43] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:19:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:19:37] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:19:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:19:44] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:19:44] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:19:47] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:25:19] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:25:19] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:25:21] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:25:26] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:25:26] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:25:28] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:25:33] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:25:33] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:25:36] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:39:46] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:39:46] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:39:54] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:39:54] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:39:54] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:40:01] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:40:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:40:01] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:40:08] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:40:08] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:40:08] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:40:10] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:41:07] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:41:07] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:41:14] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:41:14] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:41:14] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:41:18] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:51:31] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:51:31] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:51:34] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 01:51:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 01:51:39] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 01:51:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 03:39:10] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 03:39:10] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 03:42:28] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 04:33:15] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 04:33:15] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 04:35:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 04:34:33] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 04:35:45] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 04:35:45] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 04:36:23] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 04:35:51] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 04:38:26] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 04:37:13] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 04:37:13] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 04:38:45] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 04:38:32] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 04:38:48] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 04:38:48] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 04:39:13] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 04:39:03] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 04:55:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 04:55:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 04:55:38] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 04:55:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 04:55:49] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 04:55:49] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 04:55:49] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 04:55:49] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 04:56:26] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 04:56:26] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 04:56:26] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 04:56:26] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 04:59:28] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 04:59:28] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 04:59:28] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 04:59:29] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:01:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:01:01] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:01:03] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:01:08] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:01:08] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:01:11] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:01:16] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:01:16] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:01:18] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:01:23] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:01:23] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:01:25] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:01:30] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:01:30] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:01:32] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:01:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:01:40] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:01:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:01:47] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:01:47] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:01:49] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:01:54] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:01:54] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:01:57] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:02:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:02:02] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:02:04] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:02:09] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:02:09] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:02:11] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:02:16] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:02:16] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:02:18] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:02:23] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:02:23] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:02:26] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:02:31] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:02:31] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:02:33] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:02:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:02:38] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:02:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:02:45] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:02:45] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:02:47] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:02:52] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:02:52] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:02:54] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:03:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:03:00] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:03:02] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:03:07] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:03:07] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:03:09] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:03:14] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:03:14] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:03:16] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:03:21] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:03:21] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:03:23] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:03:28] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:03:28] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:03:31] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:03:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:03:36] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:03:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:03:43] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:03:43] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:03:45] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:03:50] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:03:50] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:03:52] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:03:57] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:03:57] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:04:00] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:04:05] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:04:05] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:04:07] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:04:12] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:04:12] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:04:14] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:04:19] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:04:19] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:04:21] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:04:26] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:04:26] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:04:28] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:04:33] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:04:33] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:04:36] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:04:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:04:41] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:04:43] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:06:23] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:06:23] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:06:25] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:06:30] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:06:30] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:06:32] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:06:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:06:37] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:06:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:06:45] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:06:45] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:06:47] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:07:08] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:07:08] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:07:11] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:07:16] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:07:16] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:07:18] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:31:44] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:44] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:49] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:58] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:58] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:58] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:58] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:58] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:58] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:58] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:58] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:43:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:47:55] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:48:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:48:57] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:49:26] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:49:26] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:49:31] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:49:31] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:49:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:49:36] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:49:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:49:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:49:46] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:49:46] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:31:25] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:31:25] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:49:47] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:49:51] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:49:51] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:49:53] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:49:58] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:49:58] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:50:01] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:50:06] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:50:06] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:50:08] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:50:21] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:50:21] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:50:23] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:50:28] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:50:28] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:50:30] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:50:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:50:41] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:50:43] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:50:48] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:50:48] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:50:50] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:57:52] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:57:52] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:57:54] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:57:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:57:59] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 05:58:01] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:24] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:24] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:40] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:54] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:54] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:00:26] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:00:26] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:00:31] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:00:31] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:00:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:00:36] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 05:58:19] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 05:58:19] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:00:37] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:00:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:00:41] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:00:44] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:00:49] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:00:49] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:00:51] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:00:56] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:00:56] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:00:58] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:18:11] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:18:11] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:18:13] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:18:13] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:18:15] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:18:15] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:18:03] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:18:03] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:18:09] 
+Port power status:
+[2020-03-10 06:18:09] Port 1 = True
+
+[2020-03-10 06:18:09] Port 2 = True
+
+[2020-03-10 06:18:09] Port 3 = True
+
+[2020-03-10 06:18:09] Port 4 = True
+
+[2020-03-10 06:18:09] Port 5 = True
+
+[2020-03-10 06:18:17] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:18:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:18:42] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:18:46] 
+Port power status:
+[2020-03-10 06:18:46] Port 1 = True
+
+[2020-03-10 06:18:46] Port 2 = True
+
+[2020-03-10 06:18:46] Port 3 = True
+
+[2020-03-10 06:18:46] Port 4 = True
+
+[2020-03-10 06:18:46] Port 5 = True
+
+[2020-03-10 06:18:46] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:19:59] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:20:01] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:20:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:20:03] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:20:03] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:20:03] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:19:54] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:19:54] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:19:59] 
+Port power status:
+[2020-03-10 06:19:59] Port 1 = True
+
+[2020-03-10 06:19:59] Port 2 = True
+
+[2020-03-10 06:19:59] Port 3 = True
+
+[2020-03-10 06:19:59] Port 4 = True
+
+[2020-03-10 06:19:59] Port 5 = True
+
+[2020-03-10 06:20:03] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:20:21] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:20:21] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:20:21] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:20:52] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:20:52] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:20:54] 
+Port power status:
+[2020-03-10 06:20:54] Port 1 = True
+
+[2020-03-10 06:20:54] Port 2 = True
+
+[2020-03-10 06:20:54] Port 3 = True
+
+[2020-03-10 06:20:54] Port 4 = True
+
+[2020-03-10 06:20:54] Port 5 = True
+
+[2020-03-10 06:20:54] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:24:31] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:24:31] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:24:33] 
+Port power status:
+[2020-03-10 06:24:33] Port 1 = True
+
+[2020-03-10 06:24:33] Port 2 = True
+
+[2020-03-10 06:24:33] Port 3 = True
+
+[2020-03-10 06:24:33] Port 4 = True
+
+[2020-03-10 06:24:33] Port 5 = True
+
+[2020-03-10 06:24:33] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:25:18] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:25:18] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:25:18] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:25:49] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:25:49] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:25:50] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:25:53] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:25:53] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:25:53] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:25:56] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:25:56] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:25:58] 
+Port power status:
+[2020-03-10 06:25:58] Port 1 = False
+
+[2020-03-10 06:25:58] Port 2 = False
+
+[2020-03-10 06:25:58] Port 3 = True
+
+[2020-03-10 06:25:58] Port 4 = True
+
+[2020-03-10 06:25:58] Port 5 = True
+
+[2020-03-10 06:25:58] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:27:08] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:27:10] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:27:10] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:27:11] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:27:03] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:27:03] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:27:11] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:27:44] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:27:46] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:27:46] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:27:47] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:27:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:27:39] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:27:47] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:27:53] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:27:53] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:27:56] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:28:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:28:00] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:28:05] 
+Port power status:
+[2020-03-10 06:28:05] Port 1 = False
+
+[2020-03-10 06:28:05] Port 2 = False
+
+[2020-03-10 06:28:05] Port 3 = False
+
+[2020-03-10 06:28:05] Port 4 = True
+
+[2020-03-10 06:28:05] Port 5 = False
+
+[2020-03-10 06:28:05] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:28:11] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:28:11] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:28:12] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:28:14] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:28:14] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:28:17] 
+Port power status:
+[2020-03-10 06:28:17] Port 1 = False
+
+[2020-03-10 06:28:17] Port 2 = True
+
+[2020-03-10 06:28:17] Port 3 = False
+
+[2020-03-10 06:28:17] Port 4 = True
+
+[2020-03-10 06:28:17] Port 5 = False
+
+[2020-03-10 06:28:17] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:37:30] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:37:32] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:37:35] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:37:37] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:37:38] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:37:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:38:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:38:02] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:37:20] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:37:20] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:37:22] 
+Port power status:
+[2020-03-10 06:37:22] Port 1 = False
+
+[2020-03-10 06:37:22] Port 2 = True
+
+[2020-03-10 06:37:22] Port 3 = False
+
+[2020-03-10 06:37:22] Port 4 = True
+
+[2020-03-10 06:37:22] Port 5 = False
+
+[2020-03-10 06:38:02] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:38:15] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:38:17] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:38:05] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:38:05] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:38:07] 
+Port power status:
+[2020-03-10 06:38:07] Port 1 = False
+
+[2020-03-10 06:38:07] Port 2 = True
+
+[2020-03-10 06:38:07] Port 3 = False
+
+[2020-03-10 06:38:07] Port 4 = True
+
+[2020-03-10 06:38:07] Port 5 = False
+
+[2020-03-10 06:38:19] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:39:52] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:39:54] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:39:48] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:39:48] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:39:50] 
+Port power status:
+[2020-03-10 06:39:50] Port 1 = False
+
+[2020-03-10 06:39:50] Port 2 = True
+
+[2020-03-10 06:39:50] Port 3 = False
+
+[2020-03-10 06:39:50] Port 4 = True
+
+[2020-03-10 06:39:50] Port 5 = False
+
+[2020-03-10 06:39:55] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:42:55] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:42:57] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:42:51] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:42:51] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:42:54] 
+Port power status:
+[2020-03-10 06:42:54] Port 1 = False
+
+[2020-03-10 06:42:54] Port 2 = True
+
+[2020-03-10 06:42:54] Port 3 = False
+
+[2020-03-10 06:42:54] Port 4 = True
+
+[2020-03-10 06:42:54] Port 5 = False
+
+[2020-03-10 06:43:11] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:44:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:44:02] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:43:56] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:43:56] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:43:58] 
+Port power status:
+[2020-03-10 06:43:58] Port 1 = False
+
+[2020-03-10 06:43:58] Port 2 = True
+
+[2020-03-10 06:43:58] Port 3 = False
+
+[2020-03-10 06:43:58] Port 4 = True
+
+[2020-03-10 06:43:58] Port 5 = False
+
+[2020-03-10 06:44:02] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:44:13] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:44:13] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:44:15] 
+Port power status:
+[2020-03-10 06:44:15] Port 1 = False
+
+[2020-03-10 06:44:15] Port 2 = True
+
+[2020-03-10 06:44:15] Port 3 = False
+
+[2020-03-10 06:44:15] Port 4 = True
+
+[2020-03-10 06:44:15] Port 5 = False
+
+[2020-03-10 06:44:15] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:44:17] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:44:17] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:44:20] 
+Port power status:
+[2020-03-10 06:44:20] Port 1 = False
+
+[2020-03-10 06:44:20] Port 2 = True
+
+[2020-03-10 06:44:20] Port 3 = False
+
+[2020-03-10 06:44:20] Port 4 = True
+
+[2020-03-10 06:44:20] Port 5 = False
+
+[2020-03-10 06:44:20] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:48:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:48:42] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:48:45] 
+Port power status:
+[2020-03-10 06:48:45] Port 1 = False
+
+[2020-03-10 06:48:45] Port 2 = True
+
+[2020-03-10 06:48:45] Port 3 = False
+
+[2020-03-10 06:48:45] Port 4 = True
+
+[2020-03-10 06:48:45] Port 5 = False
+
+[2020-03-10 06:48:45] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:49:03] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:49:03] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:49:05] 
+Port power status:
+[2020-03-10 06:49:05] Port 1 = False
+
+[2020-03-10 06:49:05] Port 2 = True
+
+[2020-03-10 06:49:06] Port 3 = False
+
+[2020-03-10 06:49:06] Port 4 = True
+
+[2020-03-10 06:49:06] Port 5 = False
+
+[2020-03-10 06:49:06] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:51:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:51:39] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:51:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:51:47] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:51:47] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:51:49] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:52:06] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:52:06] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:52:09] 
+Port power status:
+[2020-03-10 06:52:09] Port 1 = False
+
+[2020-03-10 06:52:09] Port 2 = True
+
+[2020-03-10 06:52:09] Port 3 = False
+
+[2020-03-10 06:52:09] Port 4 = True
+
+[2020-03-10 06:52:09] Port 5 = False
+
+[2020-03-10 06:53:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:53:45] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:53:45] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:53:48] 
+Port power status:
+[2020-03-10 06:53:48] Port 1 = False
+
+[2020-03-10 06:53:48] Port 2 = True
+
+[2020-03-10 06:53:48] Port 3 = False
+
+[2020-03-10 06:53:48] Port 4 = True
+
+[2020-03-10 06:53:48] Port 5 = False
+
+[2020-03-10 06:53:48] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:54:08] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:54:08] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:54:11] 
+Port power status:
+[2020-03-10 06:54:11] Port 1 = False
+
+[2020-03-10 06:54:11] Port 2 = True
+
+[2020-03-10 06:54:11] Port 3 = False
+
+[2020-03-10 06:54:11] Port 4 = True
+
+[2020-03-10 06:54:11] Port 5 = False
+
+[2020-03-10 06:54:11] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:55:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:55:01] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:55:03] 
+Port power status:
+[2020-03-10 06:55:03] Port 1 = False
+
+[2020-03-10 06:55:03] Port 2 = True
+
+[2020-03-10 06:55:03] Port 3 = False
+
+[2020-03-10 06:55:03] Port 4 = True
+
+[2020-03-10 06:55:03] Port 5 = False
+
+[2020-03-10 06:55:03] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:55:08] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:55:08] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:55:10] 
+Port power status:
+[2020-03-10 06:55:10] Port 1 = False
+
+[2020-03-10 06:55:10] Port 2 = True
+
+[2020-03-10 06:55:10] Port 3 = False
+
+[2020-03-10 06:55:10] Port 4 = True
+
+[2020-03-10 06:55:10] Port 5 = False
+
+[2020-03-10 06:55:10] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:55:12] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:55:12] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:55:12] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:55:14] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:55:14] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:55:16] 
+Port power status:
+[2020-03-10 06:55:16] Port 1 = True
+
+[2020-03-10 06:55:16] Port 2 = True
+
+[2020-03-10 06:55:16] Port 3 = False
+
+[2020-03-10 06:55:16] Port 4 = True
+
+[2020-03-10 06:55:16] Port 5 = False
+
+[2020-03-10 06:55:16] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:55:36] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:55:36] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:55:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:55:43] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:55:43] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:55:45] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:55:50] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:55:50] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:55:52] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:55:51] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:55:53] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:55:57] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:55:57] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:56:00] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:56:05] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:56:05] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:56:03] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:56:03] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:56:06] 
+Port power status:
+[2020-03-10 06:56:06] Port 1 = True
+
+[2020-03-10 06:56:06] Port 2 = True
+
+[2020-03-10 06:56:06] Port 3 = False
+
+[2020-03-10 06:56:06] Port 4 = True
+
+[2020-03-10 06:56:06] Port 5 = False
+
+[2020-03-10 06:56:06] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:56:10] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:56:10] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:56:12] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:56:17] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:56:17] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:56:19] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:56:21] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:56:21] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:56:23] 
+Port power status:
+[2020-03-10 06:56:23] Port 1 = True
+
+[2020-03-10 06:56:23] Port 2 = True
+
+[2020-03-10 06:56:23] Port 3 = False
+
+[2020-03-10 06:56:23] Port 4 = True
+
+[2020-03-10 06:56:23] Port 5 = False
+
+[2020-03-10 06:56:23] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:56:24] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:56:24] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:56:26] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:56:25] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:56:27] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:56:31] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:56:31] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:56:34] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:56:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:56:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:56:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:56:39] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:56:41] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:56:41] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:56:41] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:56:43] 
+Port power status:
+[2020-03-10 06:56:43] Port 1 = True
+
+[2020-03-10 06:56:43] Port 2 = True
+
+[2020-03-10 06:56:43] Port 3 = False
+
+[2020-03-10 06:56:43] Port 4 = True
+
+[2020-03-10 06:56:43] Port 5 = False
+
+[2020-03-10 06:56:43] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:56:46] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:56:46] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:56:45] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:56:45] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:56:47] 
+Port power status:
+[2020-03-10 06:56:47] Port 1 = True
+
+[2020-03-10 06:56:47] Port 2 = True
+
+[2020-03-10 06:56:47] Port 3 = False
+
+[2020-03-10 06:56:47] Port 4 = True
+
+[2020-03-10 06:56:47] Port 5 = False
+
+[2020-03-10 06:56:47] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:56:51] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:56:51] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:56:49] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:56:49] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:56:52] 
+Port power status:
+[2020-03-10 06:56:52] Port 1 = True
+
+[2020-03-10 06:56:52] Port 2 = True
+
+[2020-03-10 06:56:52] Port 3 = False
+
+[2020-03-10 06:56:52] Port 4 = True
+
+[2020-03-10 06:56:52] Port 5 = False
+
+[2020-03-10 06:56:52] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:56:56] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:56:56] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:56:58] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:57:05] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:57:05] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:57:03] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:57:03] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:57:05] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:57:07] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:57:07] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:57:09] 
+Port power status:
+[2020-03-10 06:57:09] Port 1 = True
+
+[2020-03-10 06:57:09] Port 2 = True
+
+[2020-03-10 06:57:09] Port 3 = False
+
+[2020-03-10 06:57:09] Port 4 = True
+
+[2020-03-10 06:57:09] Port 5 = False
+
+[2020-03-10 06:57:09] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:57:10] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:57:10] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:57:12] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:57:17] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:57:17] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:57:16] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:57:16] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:57:18] 
+Port power status:
+[2020-03-10 06:57:18] Port 1 = True
+
+[2020-03-10 06:57:18] Port 2 = True
+
+[2020-03-10 06:57:18] Port 3 = False
+
+[2020-03-10 06:57:18] Port 4 = True
+
+[2020-03-10 06:57:18] Port 5 = False
+
+[2020-03-10 06:57:18] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:57:22] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:57:22] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:57:25] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 06:57:30] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 06:57:30] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 06:57:32] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:00:24] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:00:24] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:00:26] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:33:53] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:33:53] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:33:55] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:34:00] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:34:00] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:34:03] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:34:08] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:34:08] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:34:10] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:34:15] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:34:15] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:34:17] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:34:23] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:34:23] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:34:22] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:34:22] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:34:24] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:34:25] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:34:25] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:34:28] 
+Port power status:
+[2020-03-10 07:34:28] Port 1 = True
+
+[2020-03-10 07:34:28] Port 2 = True
+
+[2020-03-10 07:34:28] Port 3 = False
+
+[2020-03-10 07:34:28] Port 4 = True
+
+[2020-03-10 07:34:28] Port 5 = False
+
+[2020-03-10 07:34:28] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:34:29] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:34:29] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:34:32] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:34:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:34:34] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:34:36] 
+Port power status:
+[2020-03-10 07:34:36] Port 1 = True
+
+[2020-03-10 07:34:36] Port 2 = True
+
+[2020-03-10 07:34:36] Port 3 = False
+
+[2020-03-10 07:34:36] Port 4 = True
+
+[2020-03-10 07:34:36] Port 5 = False
+
+[2020-03-10 07:34:36] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:34:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:34:37] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:34:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:34:44] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:34:44] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:34:43] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:34:43] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:34:45] 
+Port power status:
+[2020-03-10 07:34:45] Port 1 = True
+
+[2020-03-10 07:34:45] Port 2 = True
+
+[2020-03-10 07:34:45] Port 3 = False
+
+[2020-03-10 07:34:45] Port 4 = True
+
+[2020-03-10 07:34:45] Port 5 = False
+
+[2020-03-10 07:34:45] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:34:49] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:34:49] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:34:51] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:34:56] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:34:56] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:34:58] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:34:58] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:34:58] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:34:59] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:35:03] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:35:03] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:35:05] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:35:08] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:35:08] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:35:08] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:35:10] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:35:10] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:35:10] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:35:11] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:35:11] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:35:13] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:35:18] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:35:18] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:35:20] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:35:25] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:35:25] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:35:25] Could not understand command all_off
+[2020-03-10 07:35:25] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:35:25] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:35:25] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:35:27] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:35:32] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:35:32] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:35:34] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:35:39] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:35:39] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:35:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:35:47] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:35:47] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:35:49] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:35:54] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:35:54] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:35:56] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:02] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:02] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:01] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:01] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:36:03] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:04] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:04] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:36:04] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:08] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:08] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:36:11] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:17] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:17] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:16] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:16] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:36:18] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:20] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:20] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:36:22] 
+Port power status:
+[2020-03-10 07:36:22] Port 1 = False
+
+[2020-03-10 07:36:22] Port 2 = False
+
+[2020-03-10 07:36:22] Port 3 = False
+
+[2020-03-10 07:36:22] Port 4 = False
+
+[2020-03-10 07:36:22] Port 5 = False
+
+[2020-03-10 07:36:22] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:23] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:23] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:36:25] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:26] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:26] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:36:26] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:27] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:27] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:36:27] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:28] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:28] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:36:28] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:32] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:32] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:30] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:30] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:36:32] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:34] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:34] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:36:36] 
+Port power status:
+[2020-03-10 07:36:36] Port 1 = False
+
+[2020-03-10 07:36:36] Port 2 = False
+
+[2020-03-10 07:36:36] Port 3 = True
+
+[2020-03-10 07:36:36] Port 4 = True
+
+[2020-03-10 07:36:36] Port 5 = True
+
+[2020-03-10 07:36:36] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:37] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:37] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:36:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:42] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:42] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:36:44] 
+Port power status:
+[2020-03-10 07:36:44] Port 1 = False
+
+[2020-03-10 07:36:44] Port 2 = False
+
+[2020-03-10 07:36:44] Port 3 = True
+
+[2020-03-10 07:36:44] Port 4 = True
+
+[2020-03-10 07:36:44] Port 5 = True
+
+[2020-03-10 07:36:44] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:44] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:44] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:36:47] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:52] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:52] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:50] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:50] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:36:52] 
+Port power status:
+[2020-03-10 07:36:52] Port 1 = False
+
+[2020-03-10 07:36:52] Port 2 = False
+
+[2020-03-10 07:36:52] Port 3 = True
+
+[2020-03-10 07:36:52] Port 4 = True
+
+[2020-03-10 07:36:52] Port 5 = True
+
+[2020-03-10 07:36:52] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:36:57] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:36:57] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:36:59] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-10 07:37:04] Logging to file 'src/../LOG/log_2020_03_10.txt'
+[2020-03-10 07:37:04] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-10 07:37:05] Closing RTU serial connection at port /dev/ttyUSB0

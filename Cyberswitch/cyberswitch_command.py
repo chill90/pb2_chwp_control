@@ -1,30 +1,30 @@
-import sys as sy
-import readline
+import sys
+from time import sleep
+import src.open_command_close as occ
 
-import src.NP_05B as np
-import src.command_NP_05B as cm
-
-        
 if __name__ == "__main__":
-    if cg.use_moxa:
-        NP05B = np.NP_05B(tcp_ip=cg.moxa_ip, tcp_port=cg.moxa_port)
-    else:
-        NP05B = np.NP_05B(rtu_port=cg.ttyUSBPort)
-    CMD = cm.Command(NP05B)
+#    if cg.use_moxa:
+#        NP05B = np.NP_05B(tcp_ip=cg.moxa_ip, tcp_port=cg.moxa_port)
+#    else:
 
     #If user supplies a command-line argument, interpret it as a command to the cyberswitch
-    if len(sy.argv[1:]) > 0:
-        args = sy.argv[1:]
-        command = ' '.join(args)
-        result = CMD.CMD(command)
+    if len(sys.argv[1:]) > 0:
+        command = ' '.join(sys.argv[1:])
+        while True:
+            try:
+                occ.open_command_close(command)
+            except BlockingIOError:
+                print('Busy port, try again!')
     else:
         #Otherwise, ask the user for a command
         while True:
-            command = raw_input('Cyberswitch command [HELP for help]: ')
-            result = CMD.CMD(command)
-            if result is True:
-                print('Notification in cyberswtich_command(): Command executed successfully')
-            elif result is False:
-                print('Error in cyberswitch_command(): Command failed...')
-            else:
-                pass
+            command = input('Cyberswitch command [HELP for help]: ')
+            if command.strip() == '':
+                continue
+            try:
+                occ.open_command_close(command) 
+            except BlockingIOError:
+                print('Busy port, try again!')
+                
+                
+

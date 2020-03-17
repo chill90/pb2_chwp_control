@@ -1,0 +1,873 @@
+[2020-03-17 00:47:07] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:47:07] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:47:09] 
+Port power status:
+[2020-03-17 00:47:09] Port 1 = True
+
+[2020-03-17 00:47:09] Port 2 = False
+
+[2020-03-17 00:47:09] Port 3 = True
+
+[2020-03-17 00:47:09] Port 4 = True
+
+[2020-03-17 00:47:09] Port 5 = True
+
+[2020-03-17 00:47:09] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:47:28] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:47:28] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:47:31] 
+Port power status:
+[2020-03-17 00:47:31] Port 1 = True
+
+[2020-03-17 00:47:31] Port 2 = False
+
+[2020-03-17 00:47:31] Port 3 = True
+
+[2020-03-17 00:47:31] Port 4 = True
+
+[2020-03-17 00:47:31] Port 5 = True
+
+[2020-03-17 00:47:31] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:47:36] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:47:36] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:47:38] 
+Port power status:
+[2020-03-17 00:47:38] Port 1 = True
+
+[2020-03-17 00:47:38] Port 2 = False
+
+[2020-03-17 00:47:38] Port 3 = True
+
+[2020-03-17 00:47:38] Port 4 = True
+
+[2020-03-17 00:47:38] Port 5 = True
+
+[2020-03-17 00:47:38] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:47:43] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:47:43] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:47:45] 
+Port power status:
+[2020-03-17 00:47:45] Port 1 = True
+
+[2020-03-17 00:47:45] Port 2 = False
+
+[2020-03-17 00:47:45] Port 3 = True
+
+[2020-03-17 00:47:45] Port 4 = True
+
+[2020-03-17 00:47:45] Port 5 = True
+
+[2020-03-17 00:47:45] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:47:50] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:47:50] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:47:52] 
+Port power status:
+[2020-03-17 00:47:52] Port 1 = True
+
+[2020-03-17 00:47:52] Port 2 = False
+
+[2020-03-17 00:47:52] Port 3 = True
+
+[2020-03-17 00:47:52] Port 4 = True
+
+[2020-03-17 00:47:52] Port 5 = True
+
+[2020-03-17 00:47:52] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:47:57] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:47:57] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:48:00] 
+Port power status:
+[2020-03-17 00:48:00] Port 1 = True
+
+[2020-03-17 00:48:00] Port 2 = False
+
+[2020-03-17 00:48:00] Port 3 = True
+
+[2020-03-17 00:48:00] Port 4 = True
+
+[2020-03-17 00:48:00] Port 5 = True
+
+[2020-03-17 00:48:00] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:48:05] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:48:05] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:48:07] 
+Port power status:
+[2020-03-17 00:48:07] Port 1 = True
+
+[2020-03-17 00:48:07] Port 2 = False
+
+[2020-03-17 00:48:07] Port 3 = True
+
+[2020-03-17 00:48:07] Port 4 = True
+
+[2020-03-17 00:48:07] Port 5 = True
+
+[2020-03-17 00:48:07] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:48:12] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:48:12] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:48:14] 
+Port power status:
+[2020-03-17 00:48:14] Port 1 = True
+
+[2020-03-17 00:48:14] Port 2 = False
+
+[2020-03-17 00:48:14] Port 3 = True
+
+[2020-03-17 00:48:14] Port 4 = True
+
+[2020-03-17 00:48:14] Port 5 = True
+
+[2020-03-17 00:48:14] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:48:19] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:48:19] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:48:21] 
+Port power status:
+[2020-03-17 00:48:21] Port 1 = True
+
+[2020-03-17 00:48:21] Port 2 = False
+
+[2020-03-17 00:48:21] Port 3 = True
+
+[2020-03-17 00:48:21] Port 4 = True
+
+[2020-03-17 00:48:21] Port 5 = True
+
+[2020-03-17 00:48:21] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:48:22] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:48:22] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:48:22] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:48:26] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:48:26] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:48:28] 
+Port power status:
+[2020-03-17 00:48:28] Port 1 = True
+
+[2020-03-17 00:48:28] Port 2 = False
+
+[2020-03-17 00:48:28] Port 3 = True
+
+[2020-03-17 00:48:28] Port 4 = True
+
+[2020-03-17 00:48:28] Port 5 = True
+
+[2020-03-17 00:48:28] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:48:29] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:48:29] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:48:32] 
+Port power status:
+[2020-03-17 00:48:32] Port 1 = True
+
+[2020-03-17 00:48:32] Port 2 = False
+
+[2020-03-17 00:48:32] Port 3 = True
+
+[2020-03-17 00:48:32] Port 4 = True
+
+[2020-03-17 00:48:32] Port 5 = True
+
+[2020-03-17 00:48:32] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:48:34] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:48:34] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:48:36] 
+Port power status:
+[2020-03-17 00:48:36] Port 1 = True
+
+[2020-03-17 00:48:36] Port 2 = False
+
+[2020-03-17 00:48:36] Port 3 = True
+
+[2020-03-17 00:48:36] Port 4 = True
+
+[2020-03-17 00:48:36] Port 5 = True
+
+[2020-03-17 00:48:36] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:48:41] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:48:41] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:48:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:48:56] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:48:56] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:48:59] 
+Port power status:
+[2020-03-17 00:48:59] Port 1 = True
+
+[2020-03-17 00:48:59] Port 2 = False
+
+[2020-03-17 00:48:59] Port 3 = True
+
+[2020-03-17 00:48:59] Port 4 = True
+
+[2020-03-17 00:48:59] Port 5 = True
+
+[2020-03-17 00:48:59] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:49:00] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:49:00] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:49:01] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:49:04] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:49:04] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:49:04] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:49:09] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:49:09] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:49:11] 
+Port power status:
+[2020-03-17 00:49:11] Port 1 = True
+
+[2020-03-17 00:49:11] Port 2 = True
+
+[2020-03-17 00:49:11] Port 3 = True
+
+[2020-03-17 00:49:11] Port 4 = True
+
+[2020-03-17 00:49:11] Port 5 = True
+
+[2020-03-17 00:49:11] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:49:15] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:49:15] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:49:15] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:49:16] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:49:16] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:49:18] 
+Port power status:
+[2020-03-17 00:49:18] Port 1 = True
+
+[2020-03-17 00:49:18] Port 2 = False
+
+[2020-03-17 00:49:18] Port 3 = True
+
+[2020-03-17 00:49:18] Port 4 = True
+
+[2020-03-17 00:49:18] Port 5 = True
+
+[2020-03-17 00:49:18] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:49:23] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:49:23] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:49:25] 
+Port power status:
+[2020-03-17 00:49:25] Port 1 = True
+
+[2020-03-17 00:49:25] Port 2 = True
+
+[2020-03-17 00:49:25] Port 3 = True
+
+[2020-03-17 00:49:25] Port 4 = True
+
+[2020-03-17 00:49:25] Port 5 = True
+
+[2020-03-17 00:49:25] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:49:30] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:49:30] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:49:33] 
+Port power status:
+[2020-03-17 00:49:33] Port 1 = True
+
+[2020-03-17 00:49:33] Port 2 = True
+
+[2020-03-17 00:49:33] Port 3 = True
+
+[2020-03-17 00:49:33] Port 4 = True
+
+[2020-03-17 00:49:33] Port 5 = True
+
+[2020-03-17 00:49:33] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:49:35] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:49:35] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:49:35] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:49:38] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:49:38] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:49:40] 
+Port power status:
+[2020-03-17 00:49:40] Port 1 = True
+
+[2020-03-17 00:49:40] Port 2 = True
+
+[2020-03-17 00:49:40] Port 3 = True
+
+[2020-03-17 00:49:40] Port 4 = True
+
+[2020-03-17 00:49:40] Port 5 = True
+
+[2020-03-17 00:49:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:49:44] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:49:44] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:49:44] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:49:45] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:49:45] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:49:47] 
+Port power status:
+[2020-03-17 00:49:47] Port 1 = False
+
+[2020-03-17 00:49:47] Port 2 = True
+
+[2020-03-17 00:49:47] Port 3 = True
+
+[2020-03-17 00:49:47] Port 4 = True
+
+[2020-03-17 00:49:47] Port 5 = True
+
+[2020-03-17 00:49:47] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:49:52] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:49:52] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:49:54] 
+Port power status:
+[2020-03-17 00:49:54] Port 1 = True
+
+[2020-03-17 00:49:54] Port 2 = True
+
+[2020-03-17 00:49:54] Port 3 = True
+
+[2020-03-17 00:49:54] Port 4 = True
+
+[2020-03-17 00:49:54] Port 5 = True
+
+[2020-03-17 00:49:54] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:49:57] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:49:57] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:49:57] Could not understand command quit()
+[2020-03-17 00:49:57] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 00:49:59] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 00:49:59] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 00:50:00] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 01:51:40] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 01:51:40] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 01:51:42] 
+Port power status:
+[2020-03-17 01:51:42] Port 1 = True
+
+[2020-03-17 01:51:42] Port 2 = True
+
+[2020-03-17 01:51:42] Port 3 = True
+
+[2020-03-17 01:51:42] Port 4 = True
+
+[2020-03-17 01:51:42] Port 5 = True
+
+[2020-03-17 01:51:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 01:51:47] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 01:51:47] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 01:51:50] 
+Port power status:
+[2020-03-17 01:51:50] Port 1 = True
+
+[2020-03-17 01:51:50] Port 2 = True
+
+[2020-03-17 01:51:50] Port 3 = True
+
+[2020-03-17 01:51:50] Port 4 = True
+
+[2020-03-17 01:51:50] Port 5 = True
+
+[2020-03-17 01:51:50] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 01:51:55] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 01:51:55] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 01:51:57] 
+Port power status:
+[2020-03-17 01:51:57] Port 1 = True
+
+[2020-03-17 01:51:57] Port 2 = True
+
+[2020-03-17 01:51:57] Port 3 = True
+
+[2020-03-17 01:51:57] Port 4 = True
+
+[2020-03-17 01:51:57] Port 5 = True
+
+[2020-03-17 01:51:57] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 01:52:02] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 01:52:02] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 01:52:04] 
+Port power status:
+[2020-03-17 01:52:04] Port 1 = True
+
+[2020-03-17 01:52:04] Port 2 = True
+
+[2020-03-17 01:52:04] Port 3 = True
+
+[2020-03-17 01:52:04] Port 4 = True
+
+[2020-03-17 01:52:04] Port 5 = True
+
+[2020-03-17 01:52:04] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 01:52:09] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 01:52:09] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 01:52:11] 
+Port power status:
+[2020-03-17 01:52:11] Port 1 = True
+
+[2020-03-17 01:52:11] Port 2 = True
+
+[2020-03-17 01:52:11] Port 3 = True
+
+[2020-03-17 01:52:11] Port 4 = True
+
+[2020-03-17 01:52:11] Port 5 = True
+
+[2020-03-17 01:52:11] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 01:52:16] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 01:52:16] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 01:52:18] 
+Port power status:
+[2020-03-17 01:52:18] Port 1 = True
+
+[2020-03-17 01:52:18] Port 2 = True
+
+[2020-03-17 01:52:18] Port 3 = True
+
+[2020-03-17 01:52:18] Port 4 = True
+
+[2020-03-17 01:52:18] Port 5 = True
+
+[2020-03-17 01:52:18] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 01:52:23] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 01:52:23] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 01:52:26] 
+Port power status:
+[2020-03-17 01:52:26] Port 1 = True
+
+[2020-03-17 01:52:26] Port 2 = True
+
+[2020-03-17 01:52:26] Port 3 = True
+
+[2020-03-17 01:52:26] Port 4 = True
+
+[2020-03-17 01:52:26] Port 5 = True
+
+[2020-03-17 01:52:26] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 01:52:31] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 01:52:31] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 01:52:33] 
+Port power status:
+[2020-03-17 01:52:33] Port 1 = True
+
+[2020-03-17 01:52:33] Port 2 = True
+
+[2020-03-17 01:52:33] Port 3 = True
+
+[2020-03-17 01:52:33] Port 4 = True
+
+[2020-03-17 01:52:33] Port 5 = True
+
+[2020-03-17 01:52:33] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 01:52:38] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 01:52:38] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 01:52:40] 
+Port power status:
+[2020-03-17 01:52:40] Port 1 = True
+
+[2020-03-17 01:52:40] Port 2 = True
+
+[2020-03-17 01:52:40] Port 3 = True
+
+[2020-03-17 01:52:40] Port 4 = True
+
+[2020-03-17 01:52:40] Port 5 = True
+
+[2020-03-17 01:52:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 01:52:45] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 01:52:45] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 01:52:47] 
+Port power status:
+[2020-03-17 01:52:47] Port 1 = True
+
+[2020-03-17 01:52:47] Port 2 = True
+
+[2020-03-17 01:52:47] Port 3 = True
+
+[2020-03-17 01:52:47] Port 4 = True
+
+[2020-03-17 01:52:47] Port 5 = True
+
+[2020-03-17 01:52:47] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 01:52:52] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 01:52:52] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 01:52:55] 
+Port power status:
+[2020-03-17 01:52:55] Port 1 = True
+
+[2020-03-17 01:52:55] Port 2 = True
+
+[2020-03-17 01:52:55] Port 3 = True
+
+[2020-03-17 01:52:55] Port 4 = True
+
+[2020-03-17 01:52:55] Port 5 = True
+
+[2020-03-17 01:52:55] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 01:53:00] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 01:53:00] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 01:53:02] 
+Port power status:
+[2020-03-17 01:53:02] Port 1 = True
+
+[2020-03-17 01:53:02] Port 2 = True
+
+[2020-03-17 01:53:02] Port 3 = True
+
+[2020-03-17 01:53:02] Port 4 = True
+
+[2020-03-17 01:53:02] Port 5 = True
+
+[2020-03-17 01:53:02] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 02:14:42] Logging to file '/home/polarbear/pb2_chwp_control/src/../Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 02:14:42] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 02:14:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 02:20:20] Logging to file '/home/polarbear/pb2_chwp_control/src/../Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 02:20:20] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 02:20:21] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 02:20:35] Logging to file '/home/polarbear/pb2_chwp_control/src/../Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 02:20:35] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 02:20:35] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:06:13] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:06:13] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:06:15] 
+Port power status:
+[2020-03-17 03:06:15] Port 1 = True
+
+[2020-03-17 03:06:15] Port 2 = True
+
+[2020-03-17 03:06:15] Port 3 = True
+
+[2020-03-17 03:06:15] Port 4 = True
+
+[2020-03-17 03:06:15] Port 5 = True
+
+[2020-03-17 03:06:15] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:06:25] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:06:25] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:06:27] 
+Port power status:
+[2020-03-17 03:06:27] Port 1 = True
+
+[2020-03-17 03:06:27] Port 2 = True
+
+[2020-03-17 03:06:27] Port 3 = True
+
+[2020-03-17 03:06:27] Port 4 = True
+
+[2020-03-17 03:06:27] Port 5 = True
+
+[2020-03-17 03:06:27] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:06:37] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:06:37] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:06:39] 
+Port power status:
+[2020-03-17 03:06:39] Port 1 = True
+
+[2020-03-17 03:06:39] Port 2 = True
+
+[2020-03-17 03:06:39] Port 3 = True
+
+[2020-03-17 03:06:39] Port 4 = True
+
+[2020-03-17 03:06:39] Port 5 = True
+
+[2020-03-17 03:06:39] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:06:49] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:06:49] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:06:51] 
+Port power status:
+[2020-03-17 03:06:51] Port 1 = True
+
+[2020-03-17 03:06:51] Port 2 = True
+
+[2020-03-17 03:06:51] Port 3 = True
+
+[2020-03-17 03:06:51] Port 4 = True
+
+[2020-03-17 03:06:51] Port 5 = True
+
+[2020-03-17 03:06:51] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:07:01] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:07:01] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:07:04] 
+Port power status:
+[2020-03-17 03:07:04] Port 1 = True
+
+[2020-03-17 03:07:04] Port 2 = True
+
+[2020-03-17 03:07:04] Port 3 = True
+
+[2020-03-17 03:07:04] Port 4 = True
+
+[2020-03-17 03:07:04] Port 5 = True
+
+[2020-03-17 03:07:04] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:07:14] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:07:14] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:07:16] 
+Port power status:
+[2020-03-17 03:07:16] Port 1 = True
+
+[2020-03-17 03:07:16] Port 2 = True
+
+[2020-03-17 03:07:16] Port 3 = True
+
+[2020-03-17 03:07:16] Port 4 = True
+
+[2020-03-17 03:07:16] Port 5 = True
+
+[2020-03-17 03:07:16] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:07:26] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:07:26] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:07:28] 
+Port power status:
+[2020-03-17 03:07:28] Port 1 = True
+
+[2020-03-17 03:07:28] Port 2 = True
+
+[2020-03-17 03:07:28] Port 3 = True
+
+[2020-03-17 03:07:28] Port 4 = True
+
+[2020-03-17 03:07:28] Port 5 = True
+
+[2020-03-17 03:07:28] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:07:38] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:07:38] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:07:40] 
+Port power status:
+[2020-03-17 03:07:40] Port 1 = True
+
+[2020-03-17 03:07:40] Port 2 = True
+
+[2020-03-17 03:07:40] Port 3 = True
+
+[2020-03-17 03:07:40] Port 4 = True
+
+[2020-03-17 03:07:40] Port 5 = True
+
+[2020-03-17 03:07:40] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:07:50] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:07:50] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:07:53] 
+Port power status:
+[2020-03-17 03:07:53] Port 1 = True
+
+[2020-03-17 03:07:53] Port 2 = True
+
+[2020-03-17 03:07:53] Port 3 = True
+
+[2020-03-17 03:07:53] Port 4 = True
+
+[2020-03-17 03:07:53] Port 5 = True
+
+[2020-03-17 03:07:53] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:08:03] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:08:03] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:08:05] 
+Port power status:
+[2020-03-17 03:08:05] Port 1 = True
+
+[2020-03-17 03:08:05] Port 2 = True
+
+[2020-03-17 03:08:05] Port 3 = True
+
+[2020-03-17 03:08:05] Port 4 = True
+
+[2020-03-17 03:08:05] Port 5 = True
+
+[2020-03-17 03:08:05] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:08:15] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:08:15] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:08:17] 
+Port power status:
+[2020-03-17 03:08:17] Port 1 = True
+
+[2020-03-17 03:08:17] Port 2 = True
+
+[2020-03-17 03:08:17] Port 3 = True
+
+[2020-03-17 03:08:17] Port 4 = True
+
+[2020-03-17 03:08:17] Port 5 = True
+
+[2020-03-17 03:08:17] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:08:27] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:08:27] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:08:29] 
+Port power status:
+[2020-03-17 03:08:29] Port 1 = True
+
+[2020-03-17 03:08:29] Port 2 = True
+
+[2020-03-17 03:08:29] Port 3 = True
+
+[2020-03-17 03:08:29] Port 4 = True
+
+[2020-03-17 03:08:29] Port 5 = True
+
+[2020-03-17 03:08:29] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:08:39] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:08:39] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:08:42] 
+Port power status:
+[2020-03-17 03:08:42] Port 1 = True
+
+[2020-03-17 03:08:42] Port 2 = True
+
+[2020-03-17 03:08:42] Port 3 = True
+
+[2020-03-17 03:08:42] Port 4 = True
+
+[2020-03-17 03:08:42] Port 5 = True
+
+[2020-03-17 03:08:42] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:08:47] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:08:47] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:08:49] 
+Port power status:
+[2020-03-17 03:08:49] Port 1 = True
+
+[2020-03-17 03:08:49] Port 2 = True
+
+[2020-03-17 03:08:49] Port 3 = True
+
+[2020-03-17 03:08:49] Port 4 = True
+
+[2020-03-17 03:08:49] Port 5 = True
+
+[2020-03-17 03:08:49] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:08:52] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:08:52] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:08:54] 
+Port power status:
+[2020-03-17 03:08:54] Port 1 = True
+
+[2020-03-17 03:08:54] Port 2 = True
+
+[2020-03-17 03:08:54] Port 3 = True
+
+[2020-03-17 03:08:54] Port 4 = True
+
+[2020-03-17 03:08:54] Port 5 = True
+
+[2020-03-17 03:08:54] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:08:55] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:08:55] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:08:55] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:08:57] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:08:57] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:08:59] 
+Port power status:
+[2020-03-17 03:08:59] Port 1 = False
+
+[2020-03-17 03:08:59] Port 2 = True
+
+[2020-03-17 03:08:59] Port 3 = True
+
+[2020-03-17 03:08:59] Port 4 = True
+
+[2020-03-17 03:08:59] Port 5 = True
+
+[2020-03-17 03:08:59] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:09:01] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:09:01] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:09:03] 
+Port power status:
+[2020-03-17 03:09:03] Port 1 = False
+
+[2020-03-17 03:09:03] Port 2 = True
+
+[2020-03-17 03:09:03] Port 3 = True
+
+[2020-03-17 03:09:03] Port 4 = True
+
+[2020-03-17 03:09:03] Port 5 = True
+
+[2020-03-17 03:09:03] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:09:04] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:09:04] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:09:06] 
+Port power status:
+[2020-03-17 03:09:06] Port 1 = False
+
+[2020-03-17 03:09:06] Port 2 = True
+
+[2020-03-17 03:09:06] Port 3 = True
+
+[2020-03-17 03:09:06] Port 4 = True
+
+[2020-03-17 03:09:06] Port 5 = True
+
+[2020-03-17 03:09:06] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:09:08] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:09:08] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:09:10] 
+Port power status:
+[2020-03-17 03:09:10] Port 1 = False
+
+[2020-03-17 03:09:10] Port 2 = True
+
+[2020-03-17 03:09:10] Port 3 = True
+
+[2020-03-17 03:09:10] Port 4 = True
+
+[2020-03-17 03:09:10] Port 5 = True
+
+[2020-03-17 03:09:10] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:09:11] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:09:11] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:09:13] 
+Port power status:
+[2020-03-17 03:09:13] Port 1 = False
+
+[2020-03-17 03:09:13] Port 2 = True
+
+[2020-03-17 03:09:13] Port 3 = True
+
+[2020-03-17 03:09:13] Port 4 = True
+
+[2020-03-17 03:09:13] Port 5 = True
+
+[2020-03-17 03:09:13] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:09:14] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:09:14] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:09:16] 
+Port power status:
+[2020-03-17 03:09:16] Port 1 = False
+
+[2020-03-17 03:09:16] Port 2 = True
+
+[2020-03-17 03:09:16] Port 3 = True
+
+[2020-03-17 03:09:16] Port 4 = True
+
+[2020-03-17 03:09:16] Port 5 = True
+
+[2020-03-17 03:09:16] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:09:18] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:09:18] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:09:20] 
+Port power status:
+[2020-03-17 03:09:20] Port 1 = False
+
+[2020-03-17 03:09:20] Port 2 = True
+
+[2020-03-17 03:09:20] Port 3 = True
+
+[2020-03-17 03:09:20] Port 4 = True
+
+[2020-03-17 03:09:20] Port 5 = True
+
+[2020-03-17 03:09:20] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 03:09:30] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 03:09:30] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 03:09:33] 
+Port power status:
+[2020-03-17 03:09:33] Port 1 = False
+
+[2020-03-17 03:09:33] Port 2 = True
+
+[2020-03-17 03:09:33] Port 3 = True
+
+[2020-03-17 03:09:33] Port 4 = True
+
+[2020-03-17 03:09:33] Port 5 = True
+
+[2020-03-17 03:09:33] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 20:52:12] Logging to file '/home/polarbear/pb2_chwp_control/src/../Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 20:52:12] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 20:52:13] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-17 21:24:48] Logging to file '/home/polarbear/pb2_chwp_control/src/../Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 21:24:48] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 21:26:07] Logging to file '/home/polarbear/pb2_chwp_control/src/../Cyberswitch/src/../LOG/log_2020_03_17.txt'
+[2020-03-17 21:26:07] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-17 21:26:09] Closing RTU serial connection at port /dev/ttyUSB0

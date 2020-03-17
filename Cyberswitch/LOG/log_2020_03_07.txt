@@ -1,0 +1,30 @@
+[2020-03-07 00:02:23] Logging to file 'src/../LOG/log_2020_03_07.txt'
+[2020-03-07 00:02:23] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-07 00:03:21] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-07 00:04:15] Logging to file 'src/../LOG/log_2020_03_07.txt'
+[2020-03-07 00:04:15] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-07 00:09:48] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-07 00:04:32] Logging to file './src/../LOG/log_2020_03_07.txt'
+[2020-03-07 00:04:32] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-07 00:09:49] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-07 00:10:14] Logging to file 'src/../LOG/log_2020_03_07.txt'
+[2020-03-07 00:10:14] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-07 00:13:15] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-07 00:10:19] Logging to file './src/../LOG/log_2020_03_07.txt'
+[2020-03-07 00:10:19] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-07 00:13:17] 
+Port power status:
+[2020-03-07 00:13:17] Port 1 = True
+
+[2020-03-07 00:13:17] Port 2 = True
+
+[2020-03-07 00:13:17] Port 3 = True
+
+[2020-03-07 00:13:17] Port 4 = True
+
+[2020-03-07 00:13:17] Port 5 = True
+
+[2020-03-07 00:14:00] Closing RTU serial connection at port /dev/ttyUSB0
+[2020-03-07 00:19:05] Logging to file 'src/../LOG/log_2020_03_07.txt'
+[2020-03-07 00:19:05] Connecting to RTU serial port /dev/ttyUSB0
+[2020-03-07 00:24:58] Closing RTU serial connection at port /dev/ttyUSB0

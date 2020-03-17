@@ -7,7 +7,8 @@ sy.path.append(os.path.join(
     this_dir, '..', '..', 'config'))
 import exp_config as cg  # noqa: E402
 
-exp = cg.exp
+# exp = cg.exp
+exp = "SO"
 # Boolean flag for Ethernet to IP
 if exp == 'PB2b':
     use_tcp = True

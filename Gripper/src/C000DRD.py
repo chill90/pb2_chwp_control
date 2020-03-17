@@ -3,7 +3,7 @@ import serial
 from pymodbus.client.sync import ModbusSerialClient
 from pymodbus.client.sync import ModbusTcpClient
 from pymodbus.transaction import ModbusRtuFramer
-
+from pathlib import Path
 
 class C000DRD:
     """

@@ -9,11 +9,11 @@ import readline
 # CHWP control modules
 this_dir = os.path.dirname(__file__)
 sy.path.append(
-    os.path.join(this_dir, "..", "CHWP_Gripper", "src"))
+    os.path.join(this_dir, "..", "Gripper", "src"))
 sy.path.append(
-    os.path.join(this_dir, "..", "Synaccess_Cyberswitch", "src"))
+    os.path.join(this_dir, "..", "Cyberswitch", "src"))
 import gripper as gp  # noqa: E402
-import NP_05B as cs  # noqa: E402
+import NP05B as cs  # noqa: E402
 import log_control as lg  # noqa: E402
 
 
@@ -21,7 +21,7 @@ class CHWP_Control:
     def __init__(self):
         # Connect to the gripper using default settings
         self.GPR = gp.Gripper()
-        self.CS = cs.NP_05B()
+        self.CS = cs.NP05B()
         self._pos_file = os.path.join(
             this_dir, "POS", "chwp_control_positions.txt")
         self._read_pos()

@@ -9,23 +9,30 @@ import readline
 # CHWP control modules
 this_dir = os.path.dirname(__file__)
 sy.path.append(
-    os.path.join(this_dir, "..", "Gripper", "src"))
+    os.path.join(this_dir, "..", "CHWP_Gripper", "src"))
 sy.path.append(
-    os.path.join(this_dir, "..", "Cyberswitch", "src"))
+    os.path.join(this_dir, "..", "Synaccess_Cyberswitch", "src"))
+sy.path.append(
+    os.path.join(this_dir, "..", "PID_Controller", "src"))
+sy.path.append(
+    os.path.join(this_dir, ".."))
 import gripper as gp  # noqa: E402
-import NP05B as cs  # noqa: E402
+import NP_05B as cs  # noqa: E402
 import log_control as lg  # noqa: E402
+import PID_controller as pc
+import PMX.src.open_command_close as pmx_occ
 
 
 class CHWP_Control:
     def __init__(self):
         # Connect to the gripper using default settings
         self.GPR = gp.Gripper()
-        self.CS = cs.NP05B()
+        self.CS = cs.NP_05B()
         self._pos_file = os.path.join(
             this_dir, "POS", "chwp_control_positions.txt")
         self._read_pos()
         self._log = lg.Logging()
+        self.pid = pc.PID_controller()
         return
 
     def __del__(self):
@@ -97,6 +104,56 @@ class CHWP_Control:
         self.CS.ON(2)
         self.CS.ON(3)
         return
+
+    def stop_chwp(self):
+        self.pid.tune_stop()
+        self._log.out("CHWP_Control.stop_chwp(): CHWP setpoint set to 0.00 Hz")
+
+        tm.sleep(1)
+        self.cur_freq = self.pid.get_freq()
+        while self.cur_freq > 0.5:
+            tm.sleep(5)
+            self.cur_freq = self.pid.get_freq()
+            self._log.out("CHWP Frequency = %0.2f Hz, Setpoint = 0.00 Hz" % self.cur_freq)
+        while self.cur_freq > 0.05:
+            self.cur_freq = self.pid.get_freq()
+
+        while True:
+            try:
+                pmx_occ.open_command_close('OFF')
+                break
+            except BlockingIOError:
+                print('Busy port, try again!')
+                sleep(1)
+
+        self._log.out("CHWP Stopped")
+
+    def spinup_chwp(self, freq):
+        self.pid.declare_freq(freq)
+        self._log.out("CHWP_Control.spinup_chwp(): CHWP setpoint set to %0.2f Hz" % freq)
+        
+        tm.sleep(1)
+        self.cur_freq = self.pid.get_freq()
+        if self.cur_freq > freq:
+            self.pid.tune_stop()
+            while (self.cur_freq - freq) > 0:
+                tm.sleep(5)
+                self.cur_freq = self.pid.get_freq()
+                self._log.out("CHWP Frequency = %0.2f Hz, Setpoint = %0.2f Hz" % (self.cur_freq, freq))
+
+        self.pid.tune_freq()
+        tm.sleep(1)
+        while True:
+            self.cur_freq = self.pid.get_freq()
+            self._log.out("CHWP Frequency = %0.2f Hz, Setpoint = %0.2f Hz" % (self.cur_freq, freq))
+            if abs(self.cur_freq - freq) < 0.01:
+                self._log.out("CHWP Finished Tune")
+                break
+            tm.sleep(5)
+
+    def freq_chwp(self):
+        self.cur_freq = self.pid.get_freq()
+        self._log.out("CHWP Frequency = %0.2f Hz" % self.cur_freq)
 
     # ***** Private Methods *****
     def _sleep(self, duration=3600.):

@@ -16,12 +16,23 @@ cmds = {'warm_grip': CC.warm_grip,
         'cold_grip': CC.cold_grip,
         'cold_ungrip': CC.cold_ungrip,
         'gripper_home': CC.gripper_home,
-        'gripper_reboot': CC.gripper_reboot}
+        'stop_chwp': CC.stop_chwp,
+        'spinup_chwp': CC.spinup_chwp,
+        'freq_chwp': CC.freq_chwp}
+        # 'gripper_home': CC.gripper_home,
+        # 'gripper_reboot': CC.gripper_reboot}
 
 ps = ap.ArgumentParser(
     description="Control program for the PB2bc CHWP")
 ps.add_argument('command', choices=cmds.keys())
+ps.add_argument('-f', action = 'store', dest = 'freq', type = float, default = 0.0)
 
 args = ps.parse_args()
 func = cmds[args.command]
-func()
+
+if func == CC.spinup_chwp:
+    func(args.freq)
+else:
+    func()
+
+

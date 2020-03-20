@@ -1,2 +1,0 @@
-[2020-03-16 23:57:53] Logging to file '/home/polarbear/pb2_chwp_control/Cyberswitch/src/../LOG/log_2020_03_16.txt'
-[2020-03-16 23:59:47] Closing RTU serial connection at port /dev/ttyUSB0

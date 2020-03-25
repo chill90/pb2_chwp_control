@@ -15,6 +15,7 @@ import pid_config
 ########################################################################################################################
 
 class PID:
+    # Information and variables used for PID connection
     def __init__(self, verb = False):
         self.verb = verb
         self.script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -31,11 +32,11 @@ class PID:
 # Subprocesses
 ########################################################################################################################
 
+    # Sets the direction if the CHWP; 0 for forward and 1 for backwards
     def set_direction(self, direction):
         self.open_line()
         subprocess.call([os.path.join(self.script_dir, 'tune_direction'), self.PID_INFO[0], self.PID_INFO[1],
                          direction], stderr = subprocess.DEVNULL)
-        self.close_line()
         if direction == '0':
             if self.verb:
                 print('Forward')
@@ -46,6 +47,7 @@ class PID:
                 print('Reverse')
             self.stopping = True
             self.set_pid(self.stop_params)
+        self.close_line()
 
     def declare_freq(self, freq):
         if float(freq) <= 3.5:

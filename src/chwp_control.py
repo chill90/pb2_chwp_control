@@ -5,34 +5,36 @@ import numpy as np
 import sys as sy
 import os
 import readline
+import subprocess
 
 # CHWP control modules
 this_dir = os.path.dirname(__file__)
 sy.path.append(
-    os.path.join(this_dir, "..", "CHWP_Gripper", "src"))
+    os.path.join(this_dir, "..", "Gripper", "src"))
 sy.path.append(
-    os.path.join(this_dir, "..", "Synaccess_Cyberswitch", "src"))
+    os.path.join(this_dir, "..", "Cyberswitch", "src"))
 sy.path.append(
-    os.path.join(this_dir, "..", "PID_Controller", "src"))
+    os.path.join(this_dir, "..", "Omega_PID", "src"))
 sy.path.append(
-    os.path.join(this_dir, ".."))
-import gripper as gp  # noqa: E402
-import NP_05B as cs  # noqa: E402
-import log_control as lg  # noqa: E402
-import PID_controller as pc
-import PMX.src.open_command_close as pmx_occ
+    os.path.join(this_dir, "..", "config"))
 
+import gripper as gp  # noqa: E402
+#import NP_05B as cs  # noqa: E402
+import log_control as lg  # noqa: E402
+import pid_controller as pc
+import PMX.src.open_command_close as occ
+import beaglebone_config as bbc
 
 class CHWP_Control:
     def __init__(self):
         # Connect to the gripper using default settings
         self.GPR = gp.Gripper()
-        self.CS = cs.NP_05B()
+        #self.CS = cs.NP_05B()
         self._pos_file = os.path.join(
             this_dir, "POS", "chwp_control_positions.txt")
         self._read_pos()
         self._log = lg.Logging()
-        self.pid = pc.PID_controller()
+        self.pid = pc.PID()
         return
 
     def __del__(self):
@@ -94,7 +96,7 @@ class CHWP_Control:
         self.GPR.HOME()
         self._log.out("CHWP_Control.griper_home(): Gripper homed")
         return self.GPR.OFF()
-
+    '''
     def gripper_reboot(self):
         """ Reboot the CHWP electronics """
         self.CS.OFF(1)
@@ -104,7 +106,7 @@ class CHWP_Control:
         self.CS.ON(2)
         self.CS.ON(3)
         return
-
+    '''
     def stop_chwp(self):
         self.pid.tune_stop()
         self._log.out("CHWP_Control.stop_chwp(): CHWP setpoint set to 0.00 Hz")
@@ -120,7 +122,7 @@ class CHWP_Control:
 
         while True:
             try:
-                pmx_occ.open_command_close('OFF')
+                #occ.open_command_close('OFF')
                 break
             except BlockingIOError:
                 print('Busy port, try again!')
@@ -154,6 +156,9 @@ class CHWP_Control:
     def freq_chwp(self):
         self.cur_freq = self.pid.get_freq()
         self._log.out("CHWP Frequency = %0.2f Hz" % self.cur_freq)
+
+    def bb_packet_collect(self):
+        subprocess.call([os.path.join(this_dir, 'bb_packet_collect'), bbc.bb_username, bbc.bb_ip, bbc.bb_pass])
 
     # ***** Private Methods *****
     def _sleep(self, duration=3600.):

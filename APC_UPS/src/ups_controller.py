@@ -3,7 +3,8 @@
 # Imports
 ########################################################################################################################
 
-import telnetlib, sys, fcntl, sleep
+import telnetlib, sys, fcntl, sleep, os
+this_dir = os.path.dirname(__file__)
 
 ########################################################################################################################
 # Primary Class
@@ -11,7 +12,7 @@ import telnetlib, sys, fcntl, sleep
 
 class UPS:
     # Information needed for UPS connection
-    def __init__(self, ups_ip, lock_file_name = '.apc1_port_busy'):
+    def __init__(self, ups_ip, lock_file_name = os.path.join(this_dir, '.apc1_port_busy')):
         self.HOST = ups_ip
         self.USER = 'apc'
         self.PASSWORD = 'apc'

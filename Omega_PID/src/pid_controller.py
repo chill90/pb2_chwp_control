@@ -34,7 +34,6 @@ class PID:
 
     # Sets the direction if the CHWP; 0 for forward and 1 for backwards
     def set_direction(self, direction):
-        self.open_line()
         subprocess.call([os.path.join(self.script_dir, 'tune_direction'), self.PID_INFO[0], self.PID_INFO[1],
                          direction], stderr = subprocess.DEVNULL)
         if direction == '0':
@@ -47,7 +46,6 @@ class PID:
                 print('Reverse')
             self.stopping = True
             self.set_pid(self.stop_params)
-        self.close_line()
 
     def declare_freq(self, freq):
         if float(freq) <= 3.5:
@@ -65,7 +63,7 @@ class PID:
     def open_line(self):
         while True:
             try:
-                self.lock_file = open('.pid_port_busy')
+                self.lock_file = open(os.path.join(this_dir, '.pid_port_busy'))
                 fcntl.flock(self.lock_file, fcntl.LOCK_EX | fcntl.LOCK_NB)
                 break
             except BlockingIOError:
@@ -80,30 +78,30 @@ class PID:
 ########################################################################################################################
 
     def tune_stop(self):
+        self.open_line()
         self.set_direction('1')
         if self.verb:
             print('Starting Stop')
-        self.open_line()
         subprocess.call([os.path.join(self.script_dir, 'tune_stop'), self.PID_INFO[0], self.PID_INFO[1]], 
                          stderr = subprocess.DEVNULL)
         self.close_line()
         self.return_messages()
 
     def tune_freq(self):
+        self.open_line()
         if self.stopping:
             self.set_direction('0')
         if self.verb:
             print('Staring Tune')
-        self.open_line()
         subprocess.call([os.path.join(self.script_dir, 'tune_freq'), self.PID_INFO[0], self.PID_INFO[1],
                          self.hex_freq], stderr = subprocess.DEVNULL)
         self.close_line()
         self.return_messages()
 
     def get_freq(self):
+        self.open_line()
         if self.verb:
             print('Finding CHWP Frequency')
-        self.open_line()
         subprocess.call([os.path.join(self.script_dir, './get_freq'), self.PID_INFO[0], self.PID_INFO[1]],
                          stderr = subprocess.DEVNULL)
         self.open_line()
@@ -116,10 +114,8 @@ class PID:
         p_value = self.convert_to_hex(params[0], 3)
         i_value = self.convert_to_hex(params[1], 0)
         d_value = self.convert_to_hex(params[2], 1)
-        self.open_line()
         subprocess.call([os.path.join(self.script_dir, './set_pid'), self.PID_INFO[0], self.PID_INFO[1], p_value,
                         i_value, d_value], stderr = subprocess.DEVNULL)
-        self.close_line()
         self.return_messages()
 
 

@@ -1,8 +1,11 @@
 # Built-in python modules
 import sys as sy
+import os
+this_dir = os.path.dirname(__file__)
+sy.path.append(this_dir)
 
 # CHWP Control modules
-import src.pmx as pmx
+import pmx as pmx
 
 
 class Command:

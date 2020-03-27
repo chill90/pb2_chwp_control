@@ -18,7 +18,8 @@ cmds = {'warm_grip': CC.warm_grip,
         'gripper_home': CC.gripper_home,
         'stop_chwp': CC.stop_chwp,
         'spinup_chwp': CC.spinup_chwp,
-        'freq_chwp': CC.freq_chwp}
+        'freq_chwp': CC.freq_chwp,
+        'bb_packet_collect': CC.bb_packet_collect}
         # 'gripper_home': CC.gripper_home,
         # 'gripper_reboot': CC.gripper_reboot}
 

@@ -46,7 +46,8 @@ class PID:
                 print('Reverse')
             self.stopping = True
             self.set_pid(self.stop_params)
-
+    
+    # Declare to memory what the CHWP frequency should be (does not actually change the frequency)
     def declare_freq(self, freq):
         if float(freq) <= 3.5:
             self.hex_freq = '0' + self.convert_to_hex(freq, 3)
@@ -56,10 +57,12 @@ class PID:
             if self.verb:
                 print('Invalid Frequency')
 
+    # Converts the user input inrto a format the PID controller can read
     def convert_to_hex(self, value, decimal):
         temp_value = hex(int(10**decimal*float(value)))
         return ('0000' + str(temp_value)[2:].upper())[-4:]
 
+    # Opens the connection with the PID controller and makes sure that nothing else is using the connection
     def open_line(self):
         while True:
             try:
@@ -69,6 +72,7 @@ class PID:
             except BlockingIOError:
                 time.sleep(2)
 
+    # Closes the connection with the PID controller
     def close_line(self):
         fcntl.flock(self.lock_file, fcntl.LOCK_UN)
         self.lock_file.close()
@@ -77,6 +81,7 @@ class PID:
 # Main Processes
 ########################################################################################################################
 
+    # Method which sets the setpoint to 0 Hz and stops the CHWP
     def tune_stop(self):
         self.open_line()
         self.set_direction('1')
@@ -87,6 +92,7 @@ class PID:
         self.close_line()
         self.return_messages()
 
+    # Meathod which sets the setpoint to what is currently defined in memory
     def tune_freq(self):
         self.open_line()
         if self.stopping:
@@ -98,6 +104,7 @@ class PID:
         self.close_line()
         self.return_messages()
 
+    # Returns the current frequency of the CHWP
     def get_freq(self):
         self.open_line()
         if self.verb:
@@ -108,6 +115,7 @@ class PID:
         self.return_messages()
         return self.cur_freq
 
+    # Sets the PID parameters of the controller
     def set_pid(self, params):
         if self.verb:
             print('Setting PID Params')

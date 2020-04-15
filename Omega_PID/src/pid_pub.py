@@ -1,3 +1,6 @@
+# slowdaw publisher for Omega PID controller
+
+# Imports
 import os, sys
 from time import sleep
 
@@ -14,9 +17,11 @@ slowdaq_dir = ''
 sys.path.append(slowdaq_dir)
 from slowdaq3.slowdaq.pb2 import Publisher
 
+# Instantiates a publisher instance for the PID controller
 pub = Publisher('pid_info', pid_config.aggregator_ip, pid_config.aggregator_port)
 pid = pid_controller.PID()
 
+# Every 10 seconds send the CHWP frequency to slowdaq
 i = 0
 def main():
     while True:

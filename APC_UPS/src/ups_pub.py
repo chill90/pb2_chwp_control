@@ -1,3 +1,6 @@
+i# Slowdaq publisher for the MUX UPS
+
+# Imports
 import os, sys
 from time import sleep
 
@@ -14,9 +17,11 @@ slowdaq_dir = ''
 sys.path.append(slowdaq_dir)
 from slowdaq3.slowdaq.pb2 import Publisher
 
+# Instantiates publisher instance for the ups
 pub = Publisher('ups_info', ups_config.aggregator_ip, ups_config.aggregator_port)
 ups = ups_controller.UPS(ups_config.ups_ip)
 
+# Every 10 seconds sends a ups status update to slowdaq
 i = 0
 def main():
     while True:
